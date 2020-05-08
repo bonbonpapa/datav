@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+}
+svg {
+  position: fixed;
+  font: 12px sans-serif;
+}
